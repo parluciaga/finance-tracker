@@ -43,10 +43,15 @@ es:
       update_needs_confirmation: "Actualizaste tu cuenta correctamente, pero tenemos que revalidar tu email. Revisa tu correo para confirmar la dirección."
       updated: "Actualizaste tu cuenta correctamente."
       updated_but_not_signed_in: "Actualizaste tu cuenta correctamente, pero tienes que iniciar sesión nuevamente porque tu contraseña ha cambiado."
+      new:
+        sign_up: "Registrarse"
     sessions:
       signed_in: "Iniciaste sesión correctamente."
       signed_out: "Cerraste sesión correctamente."
       already_signed_out: "Se cerró sesión correctamente."
+      new:
+        sign_in: "Ingresar"
+        sign_up: "Registrarse"
     unlocks:
       send_instructions: "Recibirás un email con instrucciones para desbloquear tu cuenta en unos minutos"
       send_paranoid_instructions: "Si tu cuenta existe, recibirás un email con instrucciones para desbloquear tu cuenta en unos minutos"
