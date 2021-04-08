@@ -1,0 +1,8 @@
+es:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              taken: El usuario ya existe. Elija otro
